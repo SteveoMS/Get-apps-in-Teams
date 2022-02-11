@@ -1,6 +1,6 @@
 # Get Apps in Teams
 
-|[Documentation](https://github.com/SteveoMS/Get-apps-in-Teams/wiki/Documentation)|[Deployment Guide](https://github.com/SteveoMS/Get-apps-in-Teams/wiki/Documentation)
+|[Documentation](https://github.com/SteveoMS/Get-apps-in-Teams/wiki/Documentation)|[Deployment Guide](https://github.com/SteveoMS/Get-apps-in-Teams/wiki/Deployment-guide)
 |-------------|----------------|
 
 Learn what Teams apps users are using inside thier Teams across your orgranization.
