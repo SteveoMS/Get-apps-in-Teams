@@ -17,7 +17,5 @@ The limitation of this report is we cannot tell what Teams are leveraging these 
 ### Leverage the report for
 * Identifying apps users for Champions Programs around an app
 * Identifying Teams where users may have not discovred the power of apps in Teams
-<br/>
-<br/>
 ### Sample Report
-![CSVreport](/images/CSVReport.png)
+![csv](/images/CSVReport.png )
