@@ -1,1 +1,4 @@
-## Get Apps in Teams
+# Get Apps in Teams
+
+|Documentation|Deployment Guide|Architecture|
+|-------------|----------------|------------|
