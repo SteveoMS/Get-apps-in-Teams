@@ -3,9 +3,7 @@
 |[Documentation](https://github.com/SteveoMS/Get-apps-in-Teams/wiki/Documentation)|[Deployment Guide](https://github.com/SteveoMS/Get-apps-in-Teams/wiki/Deployment-guide)
 |-------------|----------------|
 
-Learn what Teams apps users are using inside thier Teams across your orgranization.
-
-There are hundreds of apps avaliable from Microsoft, third parties and in-house built apps that can run on the Teams platform. Identifiying the apps being used can be seen in the... 
+Learn what Teams apps users are using inside thier Teams across your orgranization. There are hundreds of apps avaliable from Microsoft, third parties and in-house built apps that can run on the Teams platform. Identifiying the apps being used can be seen in the... 
 <br/>
 <br/>
 ### Microsoft Teams Admin app usage report.
