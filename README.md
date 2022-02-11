@@ -20,4 +20,4 @@ The limitation of this report is we cannot tell what Teams are leveraging these 
 <br/>
 <br/>
 ### Sample Report
-![CSVreport]( )
+![CSVreport](/images/CSVReport.png)
