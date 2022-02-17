@@ -9,7 +9,7 @@ Learn what Teams apps users are using inside thier Teams across your orgranizati
 ### Microsoft Teams Admin app usage report.
 ![admin](/images/AppsReportingv2.png )
 
-The limitation of this report is we cannot tell what Teams are leveraging these apps or the users using the apps. The goal of the Get-apps-in-Teams Powershell script is to provide the App Names, Team names and Team Onwers where the apps are installed. The scripts output CSV file report will allow corporations adoption and change management leaders to discovery how the users base is leveraging thier investment in the Teams platform for getting work done.
+The limitation of this report is we cannot tell what Teams are leveraging these apps or the users using the apps. The goal of the Get-apps-in-Teams Powershell script is to provide the App Names, Team names and Team Onwers where the apps are installed. The script outputs a CSV file report will allow corporations adoption and change management leaders to discovery how the users base is leveraging thier investment in the Teams platform for getting work done.
 
 ### Leverage the report for
 * Identifying apps users for Champions Programs around an app
