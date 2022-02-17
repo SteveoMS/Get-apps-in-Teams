@@ -4,9 +4,12 @@
 |-------------|----------------|
 
 👋 ITPros help your organization get more from Microsoft Teams! Learn more about which apps are used in Teams and acceleate use across your company!
-Why do this? 
-✔️ Build a champions network of individuals around popular apps 
+Why do this?
+<br/>
+✔️ Build a champions network of individuals around popular apps
+<br/>
 ✔️ Help your workplace to learn from others
+<br/>
 ✔️ Understand what your users need inside of Teams to help them stay productive
 <br/>
 <br/>
