@@ -3,9 +3,10 @@
 |[Documentation](https://github.com/SteveoMS/Get-apps-in-Teams/wiki/Documentation)|[Script Deployment Guide](https://github.com/SteveoMS/Get-apps-in-Teams/wiki/PowerShell-configuration-to-run-script)
 |-------------|----------------|
 
-👋 ITPros help your organization get more from Microsoft Teams! Learn more about which apps are used in Teams and accelerate usage across your company.
+👋ITPros help your organization get more from Microsoft Teams! Learn more about which apps are used in Teams and accelerate usage across your company.
 <br/>
-Why do this?
+<br/>
+🤔Why do this?
 <br/>
 ✔️ Build a champions network of individuals around popular apps
 <br/>
