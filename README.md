@@ -5,9 +5,7 @@
 
 👋ITPros help your organization get more from Microsoft Teams! Learn more about which apps are used in Teams and accelerate usage across your company.
 <br/>
-<br/>
 ### Why do this? 🤔
-<br/>
 ✅ Build a champions network of individuals around popular apps
 <br/>
 ✅ Help your workplace to learn from others
@@ -22,6 +20,8 @@
 
 ### Leverage the report to
 💻 Identify Champions to help drive more usage of apps
+<br/>
 🆘 Identify Teams where users may not have discovered the power of using apps in Teams - help them get productive!
+<br/>
 ### Sample Report
 ![csv](/images/CSVReport.png )
