@@ -5,7 +5,7 @@
 
 👋ITPros help your organization get more from Microsoft Teams! Learn more about which apps are used in Teams and accelerate usage across your company. [Learn more about Apps in Teams](https://support.microsoft.com/en-us/office/first-things-to-know-about-apps-in-microsoft-teams-747492ee-7cdd-4115-a993-8c7e7f98a3d0?ui=en-us&rs=en-us&ad=us).
 <br/>
-### Why us this script? 🤔
+### Why use this script? 🤔
 ✅ Build a champions network of individuals around popular apps.
 <br/>
 ✅ Help your workplace to learn from others and increase adoption.
