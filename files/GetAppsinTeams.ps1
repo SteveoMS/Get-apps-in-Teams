@@ -41,3 +41,4 @@ foreach($team in $teams){
     $null = $results.Add($result)
 }
 $results  | ForEach-Object{ [pscustomobject]$_ } | Export-CSV -Path ".\results.csv" -NoTypeInformation
+Invoke-Item .\
