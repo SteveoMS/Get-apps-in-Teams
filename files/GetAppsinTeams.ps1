@@ -32,9 +32,9 @@ foreach($team in $teams){
 #    [hashtable]
     $result = [ordered]@{
         TeamName =  $team.displayName
-        TeamInstalledAppName = $filteredTeamsAppDisplayNames -join ', '
-        TeamOwnerName =  $ownerUsers -join ', '
-        TeamOwnerUPN =  $ownerUpn -join ', '
+        TeamInstalledAppName = $filteredTeamsAppDisplayNames -join ','
+        TeamOwnerName =  $ownerUsers -join ','
+        TeamOwnerUPN =  $ownerUpn -join ','
         ##TeamInstalledAppId =  $filteredTeamsAppIds -join ','
         ##TeamId =  $team.Id
     }
