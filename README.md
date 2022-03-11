@@ -1,7 +1,7 @@
 # Get Apps in Teams
 
 |[Documentation](https://github.com/SteveoMS/Get-apps-in-Teams/wiki/Documentation)|[Script Deployment Guide](https://github.com/SteveoMS/Get-apps-in-Teams/wiki/PowerShell-configuration-to-run-script)|[Champions Round Up](https://github.com/SteveoMS/Get-apps-in-Teams/wiki/Champions-Round-Up) 
-|-------------|----------------|
+|-------------|----------------|----------------|
 
 👋ITPros help your organization get more from Microsoft Teams! Learn more about which apps are used in Teams and accelerate usage across your company. [Learn more about Apps in Teams](https://support.microsoft.com/en-us/office/first-things-to-know-about-apps-in-microsoft-teams-747492ee-7cdd-4115-a993-8c7e7f98a3d0?ui=en-us&rs=en-us&ad=us).
 <br/>
