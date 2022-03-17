@@ -28,3 +28,4 @@
 
 
 ### See the script run
+ Watch Video [Script Running Walk-through (4mins)](https://livesend.microsoft.com/i/iyOmiyIAQn53V28FlkAQQQw___PPLUSSIGNVuFwDPLUSSIGNRmrW3mGjJpvKAPLUSSIGNmS08jV5Pt4AecUc3oQnaGX0DXvsbrQ1TqSK1l8xacLk0Z0s8zXFexxkNskirEiP___wDzoFJ9rByjxbTqZZvRunf)
